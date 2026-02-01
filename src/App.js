@@ -21,16 +21,18 @@ function App() {
       }}
     >
       {screen === "start" && <StartPage setScreen={setScreen} />}
+
       {screen === "riddle" && (
         <RiddlePanel setScreen={setScreen} setIsCorrect={setIsCorrect} />
       )}
+
       {screen === "result" && (
         <LandingPage isCorrect={isCorrect} setScreen={setScreen} />
       )}
+
       {screen === "sidequest" && <SideQuest setScreen={setScreen} />}
     </div>
   );
 }
 
 export default App;
-
