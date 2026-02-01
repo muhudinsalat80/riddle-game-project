@@ -20,6 +20,50 @@ function RiddlePanel() {
       correct: "A River",
       hint: "It is often found in nature.",
     },
+     {
+      question: "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",
+      answers: ["An Echo", "A Whisper", "A Flag", "A Song"],
+      correct: "An Echo",
+      hint: "You hear it when sound bounces back.",
+    },
+    {
+      question: "I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?",
+      answers: ["Breath", "A Cloud", "A Thought", "A Whisper"],
+      correct: "Breath",
+      hint: "You do it all the time without thinking.",
+    },
+    {
+      question: "I have branches, but no fruit, trunk or leaves. What am I?",
+      answers: ["A Bank", "A River", "A Library", "A Tree"],
+      correct: "A Bank",
+      hint: "You visit me when you need money services.",
+    },
+    {
+      question: "What can travel around the world while staying in a corner?",
+      answers: ["A Stamp", "A Satellite", "A Compass", "A Map"],
+      correct: "A Stamp",
+      hint: "You stick me on envelopes.",
+    },
+    {
+      question: "What gets wetter the more it dries?",
+      answers: ["A Sponge", "A Towel", "Rain", "A River"],
+      correct: "A Towel",
+      hint: "You use it after a shower.",
+    },
+    {
+      question: "I have one eye, but cannot see. What am I?",
+      answers: ["A Needle", "A Storm", "A Potato", "A Cyclops"],
+      correct: "A Needle",
+      hint: "Sewing needs me.",
+    },
+    {
+      question: "What can you catch but not throw?",
+      answers: ["A Ball", "A Cold", "A Fish", "A Train"],
+      correct: "A Cold",
+      hint: "It’s an illness, not an object.",
+    },
+
+
     {
       question: "The more you take, the more you leave behind. What am I?",
       answers: [ "Memories","Footsteps", "Air", "Time"],
