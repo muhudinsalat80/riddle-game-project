@@ -1,4 +1,4 @@
-function LandingPage({ isCorrect, setScreen }) {
+ function LandingPage({ isCorrect, setScreen }) {
   return (
     <div className="main-frame">
       <div className="left-panel">
